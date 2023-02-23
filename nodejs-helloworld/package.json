@@ -1,6 +1,14 @@
 {
 
-  "name": "nodejs-helloworld",
+"description": "Hello World!",
+
+  "main": "app.js",
+
+  "scripts": { "start": "node app.js" },
+
+  "author": "Red Hat Training", 
+
+ "name": "nodejs-helloworld",
 
  ...output omitted...
 
